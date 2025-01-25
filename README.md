@@ -31,16 +31,6 @@ The **Social Media Sentiment Analyzer** is an interactive web-based dashboard th
 
 ---
 
-## 📊 Dashboard Screenshots
-
-| Sentiment Distribution | Word Cloud |
-|----------------------|------------|
-<img width="1280" alt="Screenshot 2025-01-24 215150" src="https://github.com/user-attachments/assets/68cba16a-b437-4c95-bdc6-df0587b332af" />
-<img width="1280" alt="Screenshot 2025-01-24 215217" src="https://github.com/user-attachments/assets/2198eb6c-710a-4301-8ad3-e3fe24a2fc1b" />
-<img width="1277" alt="Screenshot 2025-01-24 215246" src="https://github.com/user-attachments/assets/f9bf71e7-93fe-4501-820a-0e392c166db2" />
-
-
-
 ## 🖥️ Tech Stack
 
 **Frontend:**  
@@ -58,6 +48,16 @@ The **Social Media Sentiment Analyzer** is an interactive web-based dashboard th
 - PyLDAvis – Topic modeling visualization  
 
 ---
+
+## 📊 Dashboard Screenshots
+
+| Sentiment Distribution | Word Cloud |
+|----------------------|------------|
+<img width="1280" alt="Screenshot 2025-01-24 215150" src="https://github.com/user-attachments/assets/68cba16a-b437-4c95-bdc6-df0587b332af" />
+<img width="1280" alt="Screenshot 2025-01-24 215217" src="https://github.com/user-attachments/assets/2198eb6c-710a-4301-8ad3-e3fe24a2fc1b" />
+<img width="1277" alt="Screenshot 2025-01-24 215246" src="https://github.com/user-attachments/assets/f9bf71e7-93fe-4501-820a-0e392c166db2" />
+
+
 
 ## 🚀 How to Run Locally
 
